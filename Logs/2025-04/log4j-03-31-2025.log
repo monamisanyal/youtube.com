@@ -1,0 +1,185 @@
+2025-03-31T13:58:39,791 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T13:58:39,856 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T13:58:47,721 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T13:58:47,744 [main] INFO  Logger - ****************************************
+2025-03-31T13:58:47,745 [main] INFO  Logger - Starting Test Case: loginTest
+2025-03-31T13:58:47,745 [main] INFO  Logger - ****************************************
+2025-03-31T13:58:48,031 [main] INFO  Logger - User is searching
+2025-03-31T13:59:33,975 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T14:07:38,959 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T14:07:39,021 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T14:07:46,585 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T14:07:46,642 [main] INFO  Logger - ****************************************
+2025-03-31T14:07:46,643 [main] INFO  Logger - Starting Test Case: loginTest
+2025-03-31T14:07:46,643 [main] INFO  Logger - ****************************************
+2025-03-31T14:07:46,858 [main] INFO  Logger - User is searching
+2025-03-31T14:08:21,472 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T14:12:22,410 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T14:12:22,475 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T14:12:30,090 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T14:12:30,119 [main] INFO  Logger - ****************************************
+2025-03-31T14:12:30,120 [main] INFO  Logger - Starting Test Case: loginTest
+2025-03-31T14:12:30,120 [main] INFO  Logger - ****************************************
+2025-03-31T14:12:30,430 [main] INFO  Logger - User is searching
+2025-03-31T14:13:05,722 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T14:14:53,508 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T14:14:53,605 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T14:15:04,318 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T14:15:04,358 [main] INFO  Logger - ****************************************
+2025-03-31T14:15:04,359 [main] INFO  Logger - Starting Test Case: loginTest
+2025-03-31T14:15:04,359 [main] INFO  Logger - ****************************************
+2025-03-31T14:15:04,543 [main] INFO  Logger - User is searching
+2025-03-31T14:15:37,492 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T14:18:08,562 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T14:18:08,644 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T14:18:16,474 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T14:18:16,494 [main] INFO  Logger - ****************************************
+2025-03-31T14:18:16,495 [main] INFO  Logger - Starting Test Case: loginTest
+2025-03-31T14:18:16,495 [main] INFO  Logger - ****************************************
+2025-03-31T14:18:16,780 [main] INFO  Logger - User is searching
+2025-03-31T14:18:26,368 [main] INFO  Logger - ****************************************
+2025-03-31T14:18:26,369 [main] INFO  Logger - Ending Test Case: loginTest
+2025-03-31T14:18:26,369 [main] INFO  Logger - ****************************************
+2025-03-31T14:18:27,723 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T14:53:26,084 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T14:53:26,161 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T14:53:33,602 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T14:53:33,618 [main] INFO  Logger - ****************************************
+2025-03-31T14:53:33,621 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T14:53:33,622 [main] INFO  Logger - ****************************************
+2025-03-31T14:53:33,693 [main] INFO  Logger - clicked signin button
+2025-03-31T14:53:41,460 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T18:19:31,474 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T18:19:31,536 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T18:19:42,967 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T18:19:42,987 [main] INFO  Logger - ****************************************
+2025-03-31T18:19:42,987 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T18:19:42,987 [main] INFO  Logger - ****************************************
+2025-03-31T18:19:43,045 [main] INFO  Logger - clicked signin button
+2025-03-31T18:20:32,121 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T18:21:26,130 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T18:21:26,197 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T18:21:33,786 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T18:21:33,805 [main] INFO  Logger - ****************************************
+2025-03-31T18:21:33,806 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T18:21:33,806 [main] INFO  Logger - ****************************************
+2025-03-31T18:21:34,228 [main] INFO  Logger - clicked signin button
+2025-03-31T18:22:22,883 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T18:24:22,741 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T18:24:22,820 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T18:26:13,678 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T18:26:13,749 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T18:26:23,306 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T18:26:23,329 [main] INFO  Logger - ****************************************
+2025-03-31T18:26:23,330 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T18:26:23,331 [main] INFO  Logger - ****************************************
+2025-03-31T18:26:23,388 [main] INFO  Logger - clicked signin button
+2025-03-31T18:34:05,515 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T18:34:05,582 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T18:34:15,263 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T18:34:15,293 [main] INFO  Logger - ****************************************
+2025-03-31T18:34:15,293 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T18:34:15,294 [main] INFO  Logger - ****************************************
+2025-03-31T18:34:15,346 [main] INFO  Logger - clicked signin button
+2025-03-31T18:34:55,800 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T18:38:48,561 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T18:38:48,620 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T18:38:56,922 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T18:38:56,947 [main] INFO  Logger - ****************************************
+2025-03-31T18:38:56,948 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T18:38:56,948 [main] INFO  Logger - ****************************************
+2025-03-31T18:38:57,240 [main] INFO  Logger - clicked signin button
+2025-03-31T18:39:36,204 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T18:54:59,634 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T18:54:59,706 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T18:55:07,359 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T18:55:07,391 [main] INFO  Logger - ****************************************
+2025-03-31T18:55:07,392 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T18:55:07,393 [main] INFO  Logger - ****************************************
+2025-03-31T18:55:07,711 [main] INFO  Logger - clicked signin button
+2025-03-31T18:55:30,980 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T19:34:46,230 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T19:34:46,305 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T19:34:55,461 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T19:34:55,494 [main] INFO  Logger - ****************************************
+2025-03-31T19:34:55,494 [main] INFO  Logger - Starting Test Case: searchresultautonmation
+2025-03-31T19:34:55,495 [main] INFO  Logger - ****************************************
+2025-03-31T19:34:55,836 [main] INFO  Logger - User is searching
+2025-03-31T19:35:04,982 [main] INFO  Logger - ****************************************
+2025-03-31T19:35:04,983 [main] INFO  Logger - Ending Test Case: searchresultautonmation
+2025-03-31T19:35:04,983 [main] INFO  Logger - ****************************************
+2025-03-31T19:35:05,883 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T19:35:12,486 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T19:35:12,490 [main] INFO  Logger - ****************************************
+2025-03-31T19:35:12,491 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T19:35:12,491 [main] INFO  Logger - ****************************************
+2025-03-31T19:35:12,492 [main] INFO  Logger - clicked signin button
+2025-03-31T19:35:51,165 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T19:50:20,966 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T19:50:21,029 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T19:50:29,056 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T19:50:29,139 [main] INFO  Logger - ****************************************
+2025-03-31T19:50:29,140 [main] INFO  Logger - Starting Test Case: searchresultautonmation
+2025-03-31T19:50:29,140 [main] INFO  Logger - ****************************************
+2025-03-31T19:50:29,468 [main] INFO  Logger - User is searching
+2025-03-31T19:50:38,790 [main] INFO  Logger - ****************************************
+2025-03-31T19:50:38,790 [main] INFO  Logger - Ending Test Case: searchresultautonmation
+2025-03-31T19:50:38,790 [main] INFO  Logger - ****************************************
+2025-03-31T19:50:39,578 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T19:50:45,440 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T19:50:45,446 [main] INFO  Logger - ****************************************
+2025-03-31T19:50:45,446 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T19:50:45,446 [main] INFO  Logger - ****************************************
+2025-03-31T19:50:45,447 [main] INFO  Logger - clicked signin button
+2025-03-31T19:51:23,913 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T19:56:01,794 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T19:56:01,873 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T19:56:09,718 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T19:56:09,788 [main] INFO  Logger - ****************************************
+2025-03-31T19:56:09,790 [main] INFO  Logger - Starting Test Case: searchresultautonmation
+2025-03-31T19:56:09,790 [main] INFO  Logger - ****************************************
+2025-03-31T19:56:10,179 [main] INFO  Logger - User is searching
+2025-03-31T19:56:19,462 [main] INFO  Logger - ****************************************
+2025-03-31T19:56:19,462 [main] INFO  Logger - Ending Test Case: searchresultautonmation
+2025-03-31T19:56:19,462 [main] INFO  Logger - ****************************************
+2025-03-31T19:56:20,260 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T19:56:26,526 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T19:56:26,533 [main] INFO  Logger - ****************************************
+2025-03-31T19:56:26,534 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T19:56:26,534 [main] INFO  Logger - ****************************************
+2025-03-31T19:56:26,535 [main] INFO  Logger - clicked signin button
+2025-03-31T19:57:06,364 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T20:06:17,935 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T20:06:18,004 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T20:06:29,578 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T20:06:29,612 [main] INFO  Logger - ****************************************
+2025-03-31T20:06:29,613 [main] INFO  Logger - Starting Test Case: searchresultautonmation
+2025-03-31T20:06:29,614 [main] INFO  Logger - ****************************************
+2025-03-31T20:06:29,796 [main] INFO  Logger - User is searching
+2025-03-31T20:06:37,334 [main] INFO  Logger - ****************************************
+2025-03-31T20:06:37,335 [main] INFO  Logger - Ending Test Case: searchresultautonmation
+2025-03-31T20:06:37,335 [main] INFO  Logger - ****************************************
+2025-03-31T20:06:38,093 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T20:06:43,861 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T20:06:43,864 [main] INFO  Logger - ****************************************
+2025-03-31T20:06:43,865 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T20:06:43,865 [main] INFO  Logger - ****************************************
+2025-03-31T20:06:43,866 [main] INFO  Logger - clicked signin button
+2025-03-31T20:07:22,445 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-03-31T20:28:44,090 [main] INFO  baseClass - Config file loaded successfully.
+2025-03-31T20:28:44,165 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T20:28:47,565 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T20:28:47,611 [main] INFO  Logger - ****************************************
+2025-03-31T20:28:47,612 [main] INFO  Logger - Starting Test Case: searchresultautonmation
+2025-03-31T20:28:47,612 [main] INFO  Logger - ****************************************
+2025-03-31T20:28:47,926 [main] INFO  Logger - User is searching
+2025-03-31T20:29:02,255 [main] INFO  Logger - ****************************************
+2025-03-31T20:29:02,256 [main] INFO  Logger - Ending Test Case: searchresultautonmation
+2025-03-31T20:29:02,260 [main] INFO  Logger - ****************************************
+2025-03-31T20:29:03,035 [main] INFO  baseClass - Initializing WebDriver...
+2025-03-31T20:29:08,648 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-03-31T20:29:08,665 [main] INFO  Logger - ****************************************
+2025-03-31T20:29:08,668 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-03-31T20:29:08,668 [main] INFO  Logger - ****************************************
+2025-03-31T20:29:08,669 [main] INFO  Logger - clicked signin button
+2025-03-31T20:29:47,025 [main] INFO  baseClass - Test execution completed and resources cleaned up.

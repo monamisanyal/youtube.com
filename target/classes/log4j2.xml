@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <!-- Define Appenders -->
+    <Appenders>
+        <!-- Console Appender - Writes logs to the console -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <!-- Define the log format using the PatternLayout -->
+            <PatternLayout pattern="%d{ISO8601} [%t] %-5p %c{1} - %m%n"/>
+        </Console>
+
+        <!-- File Appender - Writes logs to a file -->
+        <RollingFile name="FileAppender" fileName="Logs/log4j.log" filePattern="Logs/$${date:yyyy-MM}/log4j-%d{MM-dd-yyyy}.log">
+            <!-- Define the layout format for the file logs -->
+            <PatternLayout pattern="%d{ISO8601} [%t] %-5p %c{1} - %m%n"/>
+            <!-- Log file will be overwritten each time -->
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+            </Policies>
+        </RollingFile>
+    </Appenders>
+
+    <!-- Define Loggers -->
+    <Loggers>
+        <!-- Root logger configuration -->
+        <Root level="debug">
+            <!-- Attach both console and file appenders to the root logger -->
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileAppender"/>
+        </Root>
+    </Loggers>
+</Configuration>

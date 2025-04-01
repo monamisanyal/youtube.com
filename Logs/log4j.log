@@ -1,0 +1,51 @@
+2025-04-01T09:14:17,136 [main] INFO  baseClass - Config file loaded successfully.
+2025-04-01T09:14:17,218 [main] INFO  baseClass - Initializing WebDriver...
+2025-04-01T09:14:28,618 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-04-01T09:14:28,665 [main] INFO  Logger - ****************************************
+2025-04-01T09:14:28,665 [main] INFO  Logger - Starting Test Case: searchresultautonmation
+2025-04-01T09:14:28,710 [main] INFO  Logger - ****************************************
+2025-04-01T09:14:28,864 [main] INFO  Logger - User is searching
+2025-04-01T09:14:38,763 [main] INFO  Logger - ****************************************
+2025-04-01T09:14:38,763 [main] INFO  Logger - Ending Test Case: searchresultautonmation
+2025-04-01T09:14:38,764 [main] INFO  Logger - ****************************************
+2025-04-01T09:14:39,872 [main] INFO  baseClass - Initializing WebDriver...
+2025-04-01T09:14:46,777 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-04-01T09:14:46,780 [main] INFO  Logger - ****************************************
+2025-04-01T09:14:46,781 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-04-01T09:14:46,781 [main] INFO  Logger - ****************************************
+2025-04-01T09:14:46,783 [main] INFO  Logger - clicked signin button
+2025-04-01T09:15:25,891 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-04-01T09:21:53,547 [main] INFO  baseClass - Config file loaded successfully.
+2025-04-01T09:21:53,603 [main] INFO  baseClass - Initializing WebDriver...
+2025-04-01T09:22:01,034 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-04-01T09:22:01,067 [main] INFO  Logger - ****************************************
+2025-04-01T09:22:01,068 [main] INFO  Logger - Starting Test Case: searchresultautonmation
+2025-04-01T09:22:01,179 [main] INFO  Logger - ****************************************
+2025-04-01T09:22:01,399 [main] INFO  Logger - User is searching
+2025-04-01T09:22:11,231 [main] INFO  Logger - ****************************************
+2025-04-01T09:22:11,231 [main] INFO  Logger - Ending Test Case: searchresultautonmation
+2025-04-01T09:22:11,231 [main] INFO  Logger - ****************************************
+2025-04-01T09:22:12,028 [main] INFO  baseClass - Initializing WebDriver...
+2025-04-01T09:22:18,365 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-04-01T09:22:18,370 [main] INFO  Logger - ****************************************
+2025-04-01T09:22:18,371 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-04-01T09:22:18,372 [main] INFO  Logger - ****************************************
+2025-04-01T09:22:18,373 [main] INFO  Logger - clicked signin button
+2025-04-01T09:22:58,034 [main] INFO  baseClass - Test execution completed and resources cleaned up.
+2025-04-01T09:23:50,583 [main] INFO  baseClass - Config file loaded successfully.
+2025-04-01T09:23:50,650 [main] INFO  baseClass - Initializing WebDriver...
+2025-04-01T09:23:54,046 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-04-01T09:23:54,078 [main] INFO  Logger - ****************************************
+2025-04-01T09:23:54,083 [main] INFO  Logger - Starting Test Case: searchresultautonmation
+2025-04-01T09:23:54,083 [main] INFO  Logger - ****************************************
+2025-04-01T09:23:54,160 [main] INFO  Logger - User is searching
+2025-04-01T09:24:10,008 [main] INFO  Logger - ****************************************
+2025-04-01T09:24:10,008 [main] INFO  Logger - Ending Test Case: searchresultautonmation
+2025-04-01T09:24:10,009 [main] INFO  Logger - ****************************************
+2025-04-01T09:24:11,006 [main] INFO  baseClass - Initializing WebDriver...
+2025-04-01T09:24:17,517 [main] INFO  baseClass - Driver initialized and navigated to URL: https://www.youtube.com/
+2025-04-01T09:24:17,520 [main] INFO  Logger - ****************************************
+2025-04-01T09:24:17,520 [main] INFO  Logger - Starting Test Case: testloggeduser
+2025-04-01T09:24:17,521 [main] INFO  Logger - ****************************************
+2025-04-01T09:24:17,522 [main] INFO  Logger - clicked signin button
+2025-04-01T09:24:57,758 [main] INFO  baseClass - Test execution completed and resources cleaned up.
